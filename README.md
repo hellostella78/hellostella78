@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hellostella78
-- 👀 I’m interested in Game Development, Web Development, and Virtual Reality.
+- 👀 I’m interested in Software Engineering, Virtual Reality, Game Development, and Web Development,
 - 🌱 I’m currently learning C#, HTML, CSS, JavaScript
 - 📫 I have experience in C, C++, Java, Python, MATLAB, MIPS, Prolog, and Racket.
 - 💞️ I’m looking to collaborate on ...
